@@ -1,0 +1,20 @@
+James Allen - Email: james.a@example.com, Phone: 234-567-8901. Nickname: Jim. Birthday: October 25, 1982.
+Grace Baker - Creative Solutions, Australia.
+Laura Taylor.
+Jane Smith.
+Mia Robinson - Manager at ABC Corp, UK. Phone: 987-111-3210. Nickname: Mimi. Birthday: January 22, 1987.
+Alex Johnson - Developer at XYZ Inc., Canada. Email: alex.j@example.com, Phone: 987-654-3210, Website: https://xyz.com/alexj, Nickname: AJ. Birthday: February 20, 1985.
+Henry Walker - Analyst, Canada. Email: henry.w@example.com, Website: https://example.com/henryw. Nickname: Hank. Birthday: February 18, 1991.
+David Miller - Consultant. Nickname: Dave.
+Zoe Sanchez - Email: zoe.s@example.com, Phone: 654-111-6666, USA. Website: https://example.com/zoes. Birthday: December 5, 1995.
+Emily Hughes - Designer, Canada. Nickname: Em. Birthday: January 20, 1984.
+David Rivera - Phone: 555-999-0000. Nickname: Dave.
+Matthew White - Researcher, Australia. Nickname: Matt.
+Emily Davis - Analyst, UK. Nickname: Em. Birthday: March 25, 1992.
+Jack Wright - Designer, UK. Nickname: Jackie. Birthday: April 12, 1985.
+Ethan Allen - Email: ethan.a@example.com, Phone: 789-555-1234.
+Ethan Turner - Email: ethan.t@example.com, Phone: 567-890-1234, Canada.
+Aiden Edwards - UK. Email: aiden.e@example.com. Nickname: Aid.
+Anthony Lewis - Email: anthony.l@example.com, Phone: 789-012-3456. Nickname: Tony.
+John Doe - Manager at Acme Corp, USA. Email: john.doe@example.com, Phone: 123-456-7890, Website: https://example.com/johnd, Nickname: Johnny. Birthday: January 15, 1990.
+Sophia Young - Canada. Nickname: Soph. Birthday: September 10, 1998.
